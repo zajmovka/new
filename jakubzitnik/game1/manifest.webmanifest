@@ -1,0 +1,12 @@
+{
+  "name": "Test",
+  "short_name": "Test",
+  "id": "com.example.game",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
