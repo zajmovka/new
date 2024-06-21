@@ -1,0 +1,12 @@
+{
+  "name": "Ritzy Class",
+  "short_name": "Ritzy Class",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
